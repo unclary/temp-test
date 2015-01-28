@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/unclary/temp-test",
   "dependencies": {
-    "express": "^4.11.1"
+    "express": "^4.11.1",
+    "hbs": "^2.8.0"
   }
 }
